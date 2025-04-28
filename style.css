@@ -237,7 +237,6 @@ h2 {
     animation: cardFlip 0.6s ease-in-out;
 }
 
-/* アニメーション関連のスタイル */
 .victory-effect {
     position: fixed;
     top: 50%;
@@ -428,7 +427,6 @@ h2 {
     100% { opacity: 1; }
 }
 
-/* レスポンシブデザイン */
 @media (max-width: 768px) {
     .field-area {
         flex-direction: column;
